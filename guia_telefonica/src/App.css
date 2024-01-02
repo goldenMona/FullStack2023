@@ -1,0 +1,49 @@
+
+.button{
+    background-color: red;
+    color: aliceblue;
+    height: 30px;
+    text-align: center;
+    font-size: 12px;
+    
+}
+  
+  h2{
+    font: optional;
+    color: aqua;
+  }
+
+   h3{
+      color: blue;
+   }
+
+  .linea{
+    background-color: azure;
+    margin-bottom: 20px;
+    height: 40px;
+    border-style:hidden;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+  } 
+  .error {
+    color: lightgray;
+    background: red;
+    font-size: 20px;
+    border-style:hidden;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+  }
+  .not{
+    color: white;
+    background: green;
+    font-size: 20px;
+    border-style:hidden;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+  }
+
